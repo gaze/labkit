@@ -1,0 +1,4 @@
+Labkit is a set of tools for controling laboratory instruments.
+
+This is used in the Han lab at UCSB for running an experimental EPR spectrometer,
+so initially the instruments supported will be a lock-in amp, power supply, etc.
